@@ -34,3 +34,14 @@ POST /accounts
 "initialBalance": 500,
 "pin": "1234"
 }
+
+## Screenshots
+
+### Swagger API Documentation
+![Swagger Overview](images/swagger-ui.png)
+
+### Deposit API Execution
+![Deposit API](images/deposit-api.png)
+
+### Transaction History with Pagination
+![Transactions Pagination](images/transactions-api.png)
